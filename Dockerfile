@@ -1,0 +1,1 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/experimental/webhooks-extension/cmd/interceptor@sha256:ecd400e35fc75923840bde03e78910ec2f24245d76fa2fb8c2cefb884775f80d
